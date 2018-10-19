@@ -19,3 +19,8 @@ O site deverá apresentar as minhas habilidades de desenvolvimento, tais quais:
 * Entre outros.
 
 Este projeto serve secundariamente para praticar grid do CSS3
+
+## Versão 1.0 finalizada
+* Layout responsivo;
+* _Mobile first_ design;
+* Aplicação de grid.
