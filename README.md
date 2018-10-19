@@ -16,3 +16,6 @@ O site deverá apresentar as minhas habilidades de desenvolvimento, tais quais:
 * Git;
 * C#;
 * Unity;
+* Entre outros.
+
+Este projeto serve secundariamente para praticar grid do CSS3
